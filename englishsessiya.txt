@@ -1,0 +1,633 @@
+SEMESTER 2
+
+1. Choose the best answer. What is a hacker?
+
+human engineering
+the customs and regulations dealing with diplomatic formality
+a person who enters a building, grounds, etc, without permission
+a person who has a high level of skill in computer technology or programming
+
+
+2. Choose the best answer. What is ergonomics?
+
+The process of encoding a message so that it can be read only by the sender and the intended recipient
+Digital Technology
+Human engineering
+Computer software distributed without charge
+
+3. Choose the best answer. What is Protocol?
+
+a person who enters a building, grounds, etc, without permission
+an original draft, minute, or record from which a document, especially a treaty, is prepared.
+computer software distributed without charge
+human engineering
+
+4. Choose the best answer.  What is intruder?
+computer software distributed without charge
+a person who enters a building, grounds, etc, without permission
+the customs and regulations dealing with diplomatic formality
+a person who has a high level of skill in computer technology or programming
+
+5. Choose the best answer.  What is encryption?
+
+A person who has a high level of skill in computer technology or programming
+A person who enters a building, grounds, etc, without permission
+Human engineering
+The process of encoding a message so that it can be read only by the sender and the intended recipient
+
+6. Choose the best answer.  What is freeware?
+
+computer software distributed without charge
+a person who enters a building, grounds, etc, without permission
+the customs and regulations dealing with diplomatic formality
+a person who has a high level of skill in computer technology or programming
+
+7. Choose the best answer.  Securuty_______ crucial when you send confidential information online.
+Am
+ is
+are
+being
+
+8. Choose the best answer.  Encryption ________ data into a secret code so that only someone with a key can read it.
+changing
+to change
+is change
+changes
+9. Choose the best answer.  Descryption __________enscrypted data back into its original form.
+converts
+converting
+to convert
+to be convert
+
+10. Choose the best answer.  Malware ( malicious software) ________ programs designed to infiltrate or damage your computer.
+Be
+are
+is
+being
+
+11. Choose the best answer.  VIruses, worms, Trojans and spyware ________ malicious software.
+be
+is
+are
+being
+
+12. Choose the best answer.  A virus ______ enter a PC via a disc drive
+must
+should
+can
+shall
+
+13. Choose the best answer.  Spyware ________ information from your PC without your consent.
+collects
+asks
+please
+work
+14. Choose the best answer.  A Trojan horce is disguised as a useful  ____________.
+book
+laptop
+keyboard
+program
+
+15. Choose the best answer.  Remember ____________your anti- virus software as 
+often as possible.
+to cut 
+to update
+to bring
+to sell
+16. Choose the best answer.  Originally, all skilled ___________were known as hackers, but during the 1990s.
+teachers
+students
+parents
+programmers
+17. Choose the best synonym to the given word.  Entrepreneur
+marketing specialist
+accountant
+businessman
+manager
+18. Choose the best synonym to the given word.  beginning
+finish
+end
+start
+final
+19. Choose the best synonym to the given word.  potential
+interest
+motivation
+assistance
+ability
+20. Choose the best synonym to the given word.  primary    
+Bad
+key
+unefficient
+exception
+21. Choose the best answer.  Crackers or black–hat hackers _________computer criminals  who use technology to perform  a variety of crimes
+are
+is
+to be
+am
+22. Choose the best answer.  Piracy, ____________and distribution of copyrighted  software, information music and video files is widespread.
+
+authorised copying
+the illegal copying
+permitted copying
+legitimate copying
+23. Choose the best answer.  Worms are ___________programs that have capacity to move from one  computer to another
+helping
+asking
+self-copying
+translating
+
+24. Choose the best answer.  Mario remembered ___________ his assignment to his tutor because he had spoken to her about its length, but she insisted that she had never received it.
+giving 
+to give
+give
+is given
+
+25. Choose the best answer.  If you can’t find information at the library, try ___________on the Internet.
+to look
+looking
+look
+is look
+26. Choose the best answer.  She studied medicine at university and went on _________a surgeon.
+to become
+become
+becoming
+has become
+27. Choose the best answer.  Look at Mum’s car! It definitely needs__________!
+cleaning
+to clean
+cleaned
+is clean
+28. Choose the best answer.  I’ll never forget ________of that swing when I was a child.
+to fall
+falling
+fall 
+is fall
+
+29. Choose the best answer.  The government needs ________notice of the opinions of the people.
+taking
+take
+to take
+taken
+30. Choose the best answer.  Economists predict that house prices will go on ________ for at least another year.
+to rise
+rise
+rising
+risen
+31. Choose the best answer.  We weren’t able to see the concert because Tamsin forgot ______ the tickets.
+to bring 
+brought
+bringing
+is brought
+32. Choose the best answer.  Antivirus is _________________ which detects, removes viruses and protect the system from further attacks.
+Device
+software
+tool
+machine
+33. Choose the best answer.  Cyber security ______________ protection of devices and information on them from theft or damage.
+is
+are
+am
+to be
+
+34. Choose the best answer. ______________ is someone whose job is to plan a piece of work or activity and organize the work of all the people involved in it.
+Project manager
+Systems analyst
+Database administrator
+Software developer
+35. Choose the best answer. _____________ is a person who examines complicated industrial and business operations in order to find ways of improving them, especially by the introduction of computer programs and equipment
+Project manager
+Systems analyst
+Database administrator
+Software developer
+36. Choose the best answer. _____________ is someone whose job is to write software for a company’s computers 
+Systems analyst
+Software developer
+Project manager
+Database administrator
+37. Choose the best answer. _____________ is someone whose job is to design, develop and maintain databases. 
+Database administrator
+Software developer
+Systems analyst
+Project manager
+38. Choose the best answer. Have you done your homework _____________?
+Now
+Then
+Still
+Yet
+39. Choose the best answer. Find the Components of Data Communication
+Message, sender, receiver
+Computer, sender, receiver
+Sender, message, computer
+Receiver, message, computer
+40. Choose the best answer. _______________ is a piece of information that is to be transmitted from one person to another. It could be a text file, an audio file, a video file, etc.
+A sender
+A message
+A receiver
+Protocol
+41. Choose the best answer. ______________ is simply a device that sends data messages. It can be a computer, mobile, telephone, laptop, video camera, or workstation, etc.
+A message
+A sender
+A receiver
+Protocol
+42. Choose the best answer. _______________ is a device that receives messages. It can be a computer, telephone mobile, workstation, etc.
+A message
+A sender
+A receiver
+Protocol
+43. Choose the best answer. ______________ is set of rules
+A message
+Protocol
+A sender
+A receiver
+44. Choose the best answer. Please close the window ___________ you go out.
+while
+after
+before
+until
+45. Choose the best answer. Please turn off the lights _________ you go to bed.
+after
+before
+when
+until
+46. Choose the best answer. I like to relax ____________ I'm on holiday.
+before
+while
+as soon as
+until
+47. Choose the best answer. I'm so worried about Max. _________ you hear any news, please phone me.
+While
+As soon as
+Before
+Until
+48. Choose the best answer. _________ you've read the newspaper, can I have it?
+After
+When
+Until
+While
+49. Choose the best answer. I’m going to keep asking you to marry me _________ you say yes!
+until
+while
+when
+who
+50. Choose the best answer. ____________ you are the first person up in the morning, make me a cup of coffee.
+After
+If
+Before
+Rather
+51. Choose the best answer. ____________ you are having your hair cut, I am going to pick up Granddad and take him home.
+For
+Whether
+Still
+While
+52. Choose the best answer. Companies want to reach more customers, ________ they go online.
+and
+or
+but
+so
+53. Choose the best answer. It is easy to set up an online business __________ it is difficult to design and develop a website that attracts a lot of customers.
+and
+but
+or
+so
+54. Choose the best answer. Hardware _____ software provide basic infrastructure for E-commerce.
+or
+and
+but
+so
+55. Choose the best answer. Customers expect a fast and reliable service _______ they will go somewhere else to buy things.
+and
+but
+so
+or
+56. Choose the best answer. I have a PC __________ a laptop at home.
+and
+or
+but
+so
+57. Choose the best answer. I use OLX _________ I don’t use Amazon.
+and
+or
+but
+so
+58. Choose the best answer. Would you like tea __________ coffee?
+and
+or
+but
+so
+59. Choose the best answer. She’s got a smart phone, __________ she doesn’t use her desktop computer much.
+and
+or
+but
+so
+
+60. Choose the best answer. Wired means _____________________________
+having no meaning
+connected to a computer or other device by a wire
+usinga system of radio signals rather than wires to connect computers, mobile phones, etc. to each other
+a way to solve a problem or deal with a difficult situation
+61. Choose the best answer. Wireless means _____________________________
+usinga system of radio signals rather than wires to connect computers, mobile phones, etc. to each other
+connected to a computer or other device by a wire
+having no meaning
+a way to solve a problem or deal with a difficult situation
+62. Choose the best answer. Meaningless is _____________________________
+connected to a computer or other device by a wire
+usinga system of radio signals rather than wires to connect computers, mobile phones, etc. to each other
+having no meaning
+a way to solve a problem or deal with a difficult situation
+63. Choose the best answer. Solution is _________________________________
+connected to a computer or other device by a wire
+a way to solve a problem or deal with a difficult situation. 
+having no meaning
+usinga system of radio signals rather than wires to connect computers, mobile phones, etc. to each other
+64. Choose the best answer. ______________ (*) means to increase something, very much in number
+Divide
+Multiply
+Add
+Extract
+65. Choose the best answer. _________________ (-) means to take a number or amount away from another number or amount
+Multiply
+Divide
+Subtract
+Add
+66. Choose the best answer. ___________ (/) means to split a specific amount into equal parts.
+Multiply
+Divide 
+Add
+Subtract
+67. Choose the best answer. ______________ (+) means to bring or combine two or more numbers together to make a new total.
+Multiply
+Add
+Divide
+Subtract
+68. Choose the best answer. Equal (=) is _______________.
+a line of things, people, animals, etc. arranged next to each other
+a number or symbol that represents an amount
+the same in amount, number, or size
+one of several vertical blocks of print into which a page of a newspaper  or  magazine is divided
+69. Choose the best answer. A row is _______________.
+the same in amount, number, or size
+a line of things, people, animals, etc. arranged next to each other
+a number or symbol that represents an amount
+one of several vertical blocks of print into which a page of a newspaper  or  magazine is divided
+70. Choose the best answer. A column is __________________.
+the same in amount, number, or size
+a line of things, people, animals, etc. arranged next to each other
+a number or symbol that represents an amount
+one of several vertical blocks of print into which a page of a newspaper  or  magazine is divided
+71. Choose the best answer. A value is _______________.
+the same in amount, number, or size
+a number or symbol that represents an amount
+a line of things, people, animals, etc. arranged next to each other
+one of several vertical blocks of print into which a page of a newspaper  or  magazine is divided
+72. Choose the best answer. We _________   to the cinema yesterday.
+go
+went
+was going
+are going
+73. Choose the best answer. I ________   my homework for the whole evening yesterday. 
+was doing
+done
+do
+did
+74. Choose the best answer. Emily ________  the piano at 4 pm yesterday.
+play
+was playing
+played
+is playing
+75. Choose the best answer. When John came home, his little brother ____TV.
+watch
+was watching
+watched
+has watched
+76. Choose the best answer. They _____________  a new house last month.
+bought
+were buying
+was buying
+buy
+77. Choose the best answer. We _____________ our relatives in the USA two years ago.
+were visiting
+visit
+visited
+to visit
+78. Choose the best answer. I ______________ for the test from 10 am till 5 pm yesterday.
+prepared
+was preparing
+prepare
+to prepare
+79. Choose the best answer. Olivia ___________ Mike last week.
+see
+saw
+seen
+was seeing 
+80. Choose the best answer. What_____ he _________the whole evening yesterday?
+did/ fix
+has/ fixed
+was/ fixing
+is/ fixing
+81. Choose the best answer.  At half past six yesterday, we _________ dinner.
+were having
+have
+has
+had
+82. Choose the best answer. _____________ is the activity of talking to people in different places  using phone  or computer systems.
+Discuss
+Face-to-face
+Conferencing
+Participants
+83. Choose the best answer. ______________ means to talk about a subject with someone and tell each other your  ideas or opinions.
+Conferencing
+Discuss
+Face-to-face
+Participants
+84. Choose the best answer. ______________ means meeting and talking to another person directly without using phone  or computer systems. 
+Conferencing
+Face-to-face
+Discuss
+Participants
+85. Choose the best answer.  ________________ is a person who takes part in or becomes involved in a particular  activity.
+Participants
+Conferencing
+Discuss
+Face-to-face
+86. Choose the best answer. _____________ means to like, choose, or want one thing rather than another
+Set up
+Deaf
+Prefer
+Remote 
+87. Choose the best answer. ________________ means to formally establish a new company, organization, system, way of working, etc.
+Prefer
+Set up 
+Deaf
+Remote 
+88. Choose the best answer. ___________ is someone who is unable to hear, either completely or partly
+Deaf
+Prefer
+Set up
+Remote 
+89. Choose the best answer. ______________ computer systems are available to users in another  part  of a building or in another place, for example through a network
+Prefer
+Set up
+Remote
+Deaf
+90. Choose the best answer. (Data) Compression is _______________________
+a system that is used for only one purpose, e.g. for video conferencing only, nothing else
+a way to fit audio or video into a smaller space and use less bandwidth
+a device that can control the video conferencing system from a distance, without wires. It can be passed from person to person easily.
+a device that allows video conferencing systems to use more than two locations
+91. Choose the best answer. Dedicated system is _________________________
+a device that can control the video conferencing system from a distance, without wires. It can be passed from person to person easily.
+a device that allows video conferencing systems to use more than two locations
+a system that is used for only one purpose, e.g. for video conferencing only, nothing else
+a way to fit audio or video into a smaller space and use less bandwidth
+92. Choose the best answer. MCI-J is __________________________________
+a system that is used for only one purpose, e.g. for video conferencing only, nothing else
+a device that allows video conferencing systems to use more than two locations
+a device that can control the video conferencing system from a distance, without wires. It can be passed from person to person easily.
+a way to fit audio or video into a smaller space and use less bandwidth
+93. Choose the best answer. Remote control is ___________________________
+a system that is used for only one purpose, e.g. for video conferencing only, nothing else
+a device that allows video conferencing systems to use more than two locations
+a way to fit audio or video into a smaller space and use less bandwidth
+a device that can control the video conferencing system from a distance, without wires. It can be passed from person to person easily.
+94. Choose the best answer. If I ___________, I would be healthy. 
+smoke
+smoked
+isn’t smoke
+didn’t smoke 
+95. Choose the best answer. If he had enough experience for the job, the boss ____________him.
+could hire 
+hire
+hired
+can hire
+96. Choose the best answer. If I had your phone number, I ___________ you. 
+call
+will call
+would call
+called
+97. Choose the best answer. If you ______ to the party, we would have a lot of fun.
+come
+will come
+came 
+are coming
+98. Choose the best answer. If I _____ a rich man, I would buy a home like palace.
+is
+were
+be
+are
+99. Choose the best answer. If I _____________ English very well, I would look for a job in foreign companies. 
+can speak
+could speak
+could spoke
+spoke
+
+100. Choose the best answer. If he had time, he ____________ well for his exam.
+study 
+would study
+is studying
+will study
+
+
+
+answers
+
+1. a person who has a high level of skill in computer technology or programming
+2. Human engineering
+3. a set of rules or guidelines
+4. a person who enters a building, grounds, etc, without permission
+5. The process of encoding a message so that it can be read only by the sender and the intended recipient
+6. computer software distributed without charge
+7. is
+8. changes
+9. converts
+10. is
+11. are
+12. can
+13. collects
+14. program
+15. to update
+16. programmers
+17. businessman
+18. start
+19. ability
+20. key
+21. are
+22. the illegal copying
+23. self-copying
+24. to give
+25. to look
+26. to become
+27. cleaning
+28. falling
+29. to take
+30. to rise
+31. to bring
+32. software
+33. is
+34. Project manager
+35. Systems analyst
+36. Software developer
+37. Database administrator
+38. Yet
+39. Message, sender, receiver
+40. A message
+41. A sender
+42. A receiver
+43. Protocol
+44. before
+45. when
+46. while
+47. If
+48. After
+49. until
+50. If
+51. While
+52. and
+53. but
+54. and
+55. so
+56. and
+57. but
+58. or
+59. but
+60. connected to a computer or other device by a wire
+61. using a system of radio signals rather than wires to connect computers, mobile phones, etc. to each other
+62. having no meaning
+63. a way to solve a problem or deal with a difficult situation
+64. Multiply
+65. Subtract
+66. Divide
+67. Add
+68. the same in amount, number, or size
+69. a line of things, people, animals, etc. arranged next to each other
+70. one of several vertical blocks of print into which a page of a newspaper or magazine is divided
+71. a number or symbol that represents an amount
+72. went
+73. was doing
+74. was playing
+75. was watching
+76. bought
+77. visited
+78. was preparing
+79. saw
+80. did/ fix
+81. had
+82. Conferencing
+83. Discuss
+84. Face-to-face
+85. Participants
+86. Prefer
+87. Set up
+88. Deaf
+89. Remote
+90. A way to fit audio or video into a smaller space and use less bandwidth
+91. A system that is used for only one purpose, e.g. for video conferencing only, nothing else
+92. A system that is used for only one purpose, e.g. for video conferencing only, nothing else
+93. A device that can control the video conferencing system from a distance, without wires. It can be passed from person to person easily.
+94. didn't smoke
+95. could hire
+96. would call
+97. came
+98. were
+99. could speak
+100. would study
