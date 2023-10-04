@@ -7,3 +7,4 @@ class Solution:
             moves += num - min_num
 
         return moves
+
